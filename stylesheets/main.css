@@ -1,0 +1,25 @@
+h2 {
+  height: 50px;
+  background-color: red;
+  color: white;
+  vertical-align: middle
+  padding: 25px;
+  font-size: 40px;
+}
+
+h3 {
+  color: black;
+}
+h4 {
+  height 40px;
+  background-color: grey;
+  color: white;
+  padding: 10px;
+  font_size: 30px;
+  text-align: right;
+  text-decoration: underline;
+}
+
+h5 {
+  font_size: 25px;
+}
